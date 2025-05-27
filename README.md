@@ -28,6 +28,7 @@ Ce projet est un site web de gestion de produits, développé dans le cadre de m
 
 ## 📁 Structure du projet
 
+```
 SAé/
 ├── index.php # Accueil
 ├── insertion.php # Ajout d’un produit
@@ -43,7 +44,7 @@ SAé/
 ├── images/ # Images uploadées
 ├── bdd/ # Dossier contenant la base SQLite
 └── acces.log # Log d’accès (utile pour debug)
-
+```
 
 ## 💡 Installation
 
