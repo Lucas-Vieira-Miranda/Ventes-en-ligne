@@ -1,4 +1,4 @@
-# 🛍️ Site de Vente en Ligne – Projet SAÉ – IUT de Lannion
+# 🛍️ Site de Vente en Ligne – Projet SAÉ
 
 Ce projet est un site web de gestion de produits, développé dans le cadre de ma formation à l’IUT de Lannion. Il permet d’ajouter, modifier, supprimer et consulter des objets via une interface web simple, simulant un mini site de vente en ligne.
 
